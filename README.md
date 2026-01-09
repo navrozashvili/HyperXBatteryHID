@@ -1,5 +1,7 @@
 # HyperXBatteryHID
 
+Basically same as https://github.com/navrozashvili/NgenuityBattertyTrayApp but this uses HID to communicate with device
+
 Small Windows tray app that displays the battery percentage (and charging state) for supported **HID devices**, by talking **directly to the device** over HID.
 
 ## Supported devices (currently)
